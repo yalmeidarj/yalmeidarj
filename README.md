@@ -1,6 +1,6 @@
 # Yuri Almeida 
 
-Hello!👋 My name is Yuri, @yalmeidarj. I am a developer from Rio de Janeiro 🇧🇷 currently located in Toronto. I am improving my programming skill, mostly coding in Python. 
+Hello!👋 My name is Yuri, @yalmeidarj. I am a developer from Rio de Janeiro 🇧🇷asil currently located in Toronto. I am improving my programming skill, mostly coding in Python. 
 
 ## 📫 Contact me
 
