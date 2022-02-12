@@ -4,7 +4,7 @@ Hello!👋 My name is Yuri, @yalmeidarj. I am a developer from Rio de Janeiro �
 
 ## 📫 Contact me
 
-If you have any questions, contact me at [yalmeida.rj@gmail.com](yalmeida.rj@gmail.com).
+If you have any questions, contact me at yalmeida.rj@gmail.com.
 
 
 
